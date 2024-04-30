@@ -1,1 +1,2 @@
 # Data-Science-using-python
+The Good-Belly Superstore project entails creating a comprehensive dashboard featuring various visualizations like line charts, scatter plots, and donut charts. These visualizations will provide insights into different aspects of the store's operations, such as sales trends, product performance, and customer behavior. Additionally, the project will incorporate forecasting capabilities to predict future trends, enabling proactive decision-making and strategic planning for the store.
